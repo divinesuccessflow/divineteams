@@ -1,0 +1,12 @@
+{
+  "name": "divineteams",
+  "version": "1.0.0",
+  "description": "DivineTeams.AI - AI Team Rental Platform",
+  "scripts": {
+    "build": "echo 'Static site ready'",
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
